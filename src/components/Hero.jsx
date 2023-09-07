@@ -1,4 +1,3 @@
-import React from "react";
 import { motion } from "framer-motion";
 
 import { styles } from "../styles";
@@ -24,8 +23,8 @@ const Hero = () => {
             Hi, I&apos;m <span className="text-[#915eff]">Igor</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac augue
-            erat. Etiam sit amet pharetra metus.
+            I wield a diverse array of magical powers to craft innovative
+            solutions and bring your technical dreams to life.
           </p>
         </div>
       </div>
