@@ -43,8 +43,15 @@ const About = () => {
         <p className={styles.sectionSubText}>Introduction</p>
         <h2 className={styles.sectionHeadText}>Overview.</h2>
         <p className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-          Passion drives me in everything I do. Feel free to contact and embark
-          on a thrilling journey together!
+          As a Python Backend Wizard, I conjure up efficient and scalable
+          solutions like spells from a magical grimoire. Enchanted by the allure
+          of clean code, the art of crafting robust APIs, and the mystical dance
+          of performance optimization, I&apos;m on an endless quest for
+          knowledge, unafraid of tackling the trickiest challenges. Just like a
+          master sorcerer perfecting their incantation, I invest that extra
+          spellbinding touch into my creations, ensuring they manifest the
+          creative vision in the most enchanting way possible. Feel free to
+          contact and embark on a thrilling journey together!
         </p>
       </motion.div>
       <div className="mt-20 flex flex-wrap gap-10">
