@@ -26,8 +26,8 @@ import star from "./company/star.png";
 import indevlab from "./company/indevlab.png";
 
 import clothingstore from "./clothingstore.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import llm from "./llm.png";
+import payplut from "./payplut.png";
 
 export {
   logo,
@@ -55,6 +55,6 @@ export {
   star,
   indevlab,
   clothingstore,
-  jobit,
-  tripguide,
+  llm,
+  payplut,
 };

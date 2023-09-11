@@ -20,8 +20,8 @@ import {
   robin,
   indevlab,
   clothingstore,
-  jobit,
-  tripguide,
+  llm,
+  payplut,
 } from "../assets";
 
 export const navLinks = [
@@ -183,45 +183,53 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "LLM Q&A",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "LLM-powered Q&A App using LangChain, OpenAI and Python. Frontend is built with amazing open-source Python library - Streamlit.",
     tags: [
       {
-        name: "react",
+        name: "python",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "LLM",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "langchain",
         color: "pink-text-gradient",
       },
+      {
+        name: "streamlit",
+        color: "yellow-text-gradient",
+      },
     ],
-    image: jobit,
+    image: llm,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "PayPlut",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "PayPlut: A Django-powered banking solution with advanced KYC registrations, virtual card management, easy fund transfers, notifications, and comprehensive transaction tracking. Create accounts, send/receive money, and manage your finances seamlessly. P.S. 'Plut' in the name stands for Plutus - the god of wealth in ancient Greek religion and mythology :)",
     tags: [
       {
-        name: "nextjs",
+        name: "django",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "react",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "postgresql",
         color: "pink-text-gradient",
       },
+      {
+        name: "aws s3",
+        color: "yellow-text-gradient",
+      },
     ],
-    image: tripguide,
+    image: payplut,
     source_code_link: "https://github.com/",
   },
 ];
