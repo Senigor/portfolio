@@ -183,7 +183,7 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "LLM Q&A",
+    name: "Lingosage",
     description:
       "LLM-powered Q&A App using LangChain, OpenAI and Python. Frontend is built with amazing open-source Python library - Streamlit.",
     tags: [
